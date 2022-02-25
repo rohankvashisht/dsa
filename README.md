@@ -1,2 +1,3 @@
-# Walk through my works
-This repository contains publicly accessible code. Browse through folders & find something useful for yourself.
+# Hey there !
+This repository contains publicly accessible code.
+Browse through my works & find something useful for yourself.
