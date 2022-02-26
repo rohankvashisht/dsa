@@ -1,3 +1,3 @@
 # Hey there !
-This repository contains publicly accessible code.
-Browse through my works & find something useful for yourself.
+This repository contains my practice code.
+Browse through different topics & find something useful for yourself.
