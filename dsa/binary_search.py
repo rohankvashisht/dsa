@@ -1,3 +1,8 @@
+"""
+Iterative solution - solution is implemented using a loop structure of some kind. 
+e.g. python doesn't like recursion. It has a maximum recursion depth after which function will halt execution.
+"""
+
 def binary_search(list, target):
   first = 0
   last = len(list) - 1
