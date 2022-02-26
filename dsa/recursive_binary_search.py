@@ -1,3 +1,8 @@
+"""
+Recursive solution - involves a set of stopping conditions and a function that calls itself.
+e.g. functional languages don't like to do modification of variables and prefer a solution using recursion
+"""
+
 def recursive_binary_search(list, target):
   if len(list) == 0:
     return False
