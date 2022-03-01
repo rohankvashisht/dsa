@@ -8,6 +8,8 @@ Browse through different topics & find something useful for yourself.
 
 Twitter : https://twitter.com/rohankvashisht
 
+LinkedIn : https://www.linkedin.com/in/rohan-837a80113
+
 Replit : https://replit.com/@rohankvashisht
 
 CodeChef : https://www.codechef.com/users/rark
