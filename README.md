@@ -4,7 +4,7 @@ This repository contains my practice code.
 
 Browse through different topics & find something useful for yourself.
 
-## Connect with me on :
+## Connect with me :
 
 Twitter : https://twitter.com/rohankvashisht
 
