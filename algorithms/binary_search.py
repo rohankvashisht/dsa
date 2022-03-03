@@ -1,3 +1,5 @@
+# Video link : https://www.youtube.com/watch?v=8hly31xKli0
+
 """
 Iterative solution - solution is implemented using a loop structure of some kind. 
 e.g. python doesn't like recursion. It has a maximum recursion depth after which function will halt execution.
