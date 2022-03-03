@@ -1,3 +1,5 @@
+# Video link : https://www.youtube.com/watch?v=8hly31xKli0
+
 # Array implementation in Python
 
 new_list = [5,8,3,7]
