@@ -1,3 +1,5 @@
+# Video link : https://www.youtube.com/watch?v=8hly31xKli0
+
 """
 Recursive solution - involves a set of stopping conditions and a function that calls itself.
 e.g. functional languages don't like to do modification of variables and prefer a solution using recursion
