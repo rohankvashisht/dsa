@@ -2,8 +2,8 @@
 
 import sys
 
-data_structures_path = "../data_structures/teamtreehouse"
-sys.path.append(data_structures_path)
+data_structures_folder_path = "../../data_structures/teamtreehouse"
+sys.path.append(data_structures_folder_path)
 
 from linked_list import LinkedList
 
