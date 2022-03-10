@@ -2,10 +2,10 @@
 
 This folder contains random numbers used for testing of algorithms.
 
-A random number is printed on every next line. 
+Different file sizes are available for testing. 
 
-Different file sizes are available for testing.
+For example: 1000000.txt has 1 million random numbers printed line wise.
 
 ## References
 
-Generated via : https://numbergenerator.org/numberlistrandomize
+Generated via: https://numbergenerator.org/numberlistrandomize
