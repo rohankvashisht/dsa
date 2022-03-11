@@ -8,4 +8,6 @@ For example: 1000000.txt has 1 million random numbers printed line wise.
 
 ## References
 
-Generated via: https://numbergenerator.org/numberlistrandomize
+Generated via: 
+1. https://numbergenerator.org/numberlistrandomize
+2. https://wtools.io/
