@@ -4,7 +4,7 @@ This repository contains code for Data Structures and Algorithms.
 
 Browse through different topics & find something useful for yourself.
 
-## Useful links
+## Useful videos
 
 1. DSA in Python (Jovian): https://www.youtube.com/watch?v=pkYVOmU3MgA
 2. DSA in Python (Teamtreehouse): https://www.youtube.com/watch?v=8hly31xKli0
