@@ -16,4 +16,6 @@ Twitter: https://twitter.com/rohankvashisht
 
 LinkedIn: https://www.linkedin.com/in/rohan-837a80113
 
+Stack Overflow: https://stackoverflow.com/users/4609706/rohankvashisht
+
 Replit: https://replit.com/@rohankvashisht
