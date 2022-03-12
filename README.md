@@ -17,7 +17,3 @@ Twitter: https://twitter.com/rohankvashisht
 LinkedIn: https://www.linkedin.com/in/rohan-837a80113
 
 Replit: https://replit.com/@rohankvashisht
-
-CodeChef: https://www.codechef.com/users/rark
-
-StackOverFlow: https://stackoverflow.com/users/4609706/rohankvashisht
