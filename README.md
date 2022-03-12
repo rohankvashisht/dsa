@@ -1,10 +1,10 @@
 # Hey there !
 
-This repository contains my practice code.
+This repository contains my learning code.
 
 Browse through different topics & find something useful for yourself.
 
-## Userful links
+## Useful links
 
 1. DSA in Python (jovian): https://www.youtube.com/watch?v=pkYVOmU3MgA
 2. DSA in Python (teamtreehouse): https://www.youtube.com/watch?v=8hly31xKli0
