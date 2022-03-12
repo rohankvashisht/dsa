@@ -16,8 +16,9 @@ numbers = load_numbers(numbers_folder_path)
 
 """
 Let's implement the function that will do our selection sort.
-We're going to pass in our Python list containing all the unsorted
-numbers.
+We're going to pass in our Python list containing all the unsorted numbers.
+
+Takes O((1/2)n^2) as run time.
 """
 def selection_sort(values):
   # We'll create an empty list that will hold all our sorted values.
