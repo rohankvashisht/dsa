@@ -2,7 +2,7 @@
 
 This repository contains code for Data Structures and Algorithms.
 
-Browse through different topics & find something useful for yourself.
+Navigate through different topics & find something useful for yourself.
 
 ## Useful videos
 
