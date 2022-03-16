@@ -1,4 +1,4 @@
-# Hey there !
+# Hey there!
 
 This repository contains code for Data Structures and Algorithms.
 
